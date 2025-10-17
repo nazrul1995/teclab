@@ -1,0 +1,632 @@
+[
+    {
+        "categoryName": "Starlink",
+        "categoryLink": "https://www.startech.com.bd/starlink",
+        "products": [
+            {
+                "productName": "Starlink Mini Kit",
+                "productLink": "https://www.startech.com.bd/starlink-mini",
+                "price": "23,850৳",
+                "productDescription": "Key Features\n                            Model: Starlink Mini KitAntenna: Electronic Phased Array\nFrequency: Dual Band 3 x 3 MU-MIMO, Wi-Fi 5\nCoverage: Up to 112m²  (1,200 ft² ), Connect up to 128 Devices\nEthernet Ports: 1x Latching Ethernet LAN port with Starlink PlugView More Info"
+            },
+            {
+                "productName": "Starlink Standard Kit",
+                "productLink": "https://www.startech.com.bd/starlink-standard",
+                "price": "44,550৳",
+                "productDescription": "Key Features\n                            Model: Starlink StandardAntenna: Electronic Phased Array\nFrequency: Tri-Band 4 x 4 MU-MIMO, Wi-Fi 6\nCoverage: Up to 297 m² (3,200 ft²), Connect up to 235 Devices\nEthernet Ports: 2x Latching Ethernet LAN ports with removable coverView More Info"
+            },
+            {
+                "productName": "Starlink Flat High Performance Kit",
+                "productLink": "https://www.startech.com.bd/starlink-flat-high-performance",
+                "price": "185,000৳",
+                "productDescription": "Key Features\n Model: Starlink Flat High PerformanceAntenna: Electronic Phased Array\nFrequency: Dual Band -3 x 3 MIMO, Wi-Fi 5\nMesh Compatibility: Compatible with up to 12 Starlink Nodes\nWeather-Resistant, Environmental Rating: IP56View More Info"
+            },
+            {
+                "productName": "Starlink Mini 15 Meter DC Power Cable for Mini KIT",
+                "productLink": "https://www.startech.com.bd/starlink-mini-15-meter-dc-power-cable",
+                "price": "Up Coming",
+                "productDescription": "Key Features\n                            MPN: 11699760Model: Starlink Mini DC Power CableType: Power Cable\nCable Length: 15m\nCompatibility: Starlink Mini\nColor: BlackView More Info"
+            },
+            {
+                "productName": "Starlink Standard Power Supply Mount for Standard KIT",
+                "productLink": "https://www.startech.com.bd/starlink-standard-power-supply-mount",
+                "price": "Up Coming",
+                "productDescription": "Key Features\n                            MPN: 37500001Model: Starlink Standard Power Supply MountType: Power Supply Mount\nStandard DC-DC Power Supply\nCompatibility: Standard Power Supply\nMount Power Supply Directly to Wall or Other SurfaceView More Info"
+            },
+            {
+                "productName": "Starlink Mini 5 Meter USB Type-C Power Cable for Mini KIT",
+                "productLink": "https://www.startech.com.bd/starlink-mini-5-meter-type-c-power-cable",
+                "price": "Up Coming",
+                "productDescription": "Key Features\n                            MPN: 11699775Model: Starlink Mini USB Type-CType: USB Type-C Power Cable\nCable Length: 5m\nCompatibility: Starlink Mini\nColor: BlackView More Info"
+            },
+            {
+                "productName": "Starlink Mini 15 Meter RJ45 Ethernet Cable for Mini KIT",
+                "productLink": "https://www.startech.com.bd/starlink-mini-15-meter-ethernet-cable",
+                "price": "Up Coming",
+                "productDescription": "Key Features\n                            MPN: 4855100Model: Starlink Mini RJ45Type: RJ45 Ethernet Cable\nCable Length: 15m\nCompatibility: Starlink Mini, Gen 3 Router\nColor: BlackView More Info"
+            },
+            {
+                "productName": "Starlink Mini 30 Meter DC Power Cable for Mini KIT",
+                "productLink": "https://www.startech.com.bd/starlink-mini-30-meter-dc-power-cable",
+                "price": "Up Coming",
+                "productDescription": "Key Features\n                            MPN: 11699730Model: Starlink Mini DC Power CableType: Power Cable\nCable Length: 30m\nCompatibility: Starlink Mini\nColor: BlackView More Info"
+            },
+            {
+                "productName": "Starlink Mini Mobility Mount for Mini KIT",
+                "productLink": "https://www.startech.com.bd/starlink-mini-mobility-mount",
+                "price": "Up Coming",
+                "productDescription": "Key Features\n                            MPN: 4178000Model: Starlink Mini Mobility MountType: Mobility Mount\nSupports a 9-Degree Mounting Angle\nCompatibility: Starlink Mini\nColor: WhiteView More Info"
+            },
+            {
+                "productName": "Starlink Standard Pipe Adapter Mount for Standard KIT",
+                "productLink": "https://www.startech.com.bd/starlink-standard-pipe-adapter-mount",
+                "price": "Up Coming",
+                "productDescription": "Key Features\n                            MPN: 4759113Model: Starlink Standard Pipe Adapter MountType: Pipe Adapter Mount\nMaximum Diameter: 63.5 mm (2.5 in)\nCompatibility: Starlink Standard, Starlink Enterprise\nDurable, Weather-Resistant MaterialsView More Info"
+            },
+            {
+                "productName": "Starlink Standard Mobility Mount for Standard KIT",
+                "productLink": "https://www.startech.com.bd/starlink-standard-mobility-mount",
+                "price": "Up Coming",
+                "productDescription": "Key Features\n                            MPN: 4759008Model: Starlink Standard Pipe Adapter MountType: Starlink Standard Mobility Mount\nSupports 8-Degree Mounting Angle\nCompatibility: Starlink Standard, Starlink Enterprise\nDurable, Weather-Resistant MaterialsView More Info"
+            },
+            {
+                "productName": "Starlink Mini Pipe Adapter and Flat Mount for Mini KIT",
+                "productLink": "https://www.startech.com.bd/starlink-mini-pipe-adapter-and-flat-mount",
+                "price": "Up Coming",
+                "productDescription": "Key Features\n                            MPN: 4176000Model: Starlink Mini Pipe Adapter and Flat MountType: Adapter and Mount\nCompatibility: Starlink Mini\nDurable, Weather-Resistant Materials\nCompact and LightweightView More Info"
+            },
+            {
+                "productName": "Starlink Vehicle Roof Rack Mount for Starlink Mini KIT",
+                "productLink": "https://www.startech.com.bd/starlink-mini-vehicle-roof-rack-mount",
+                "price": "Up Coming",
+                "productDescription": "Key Features\n                            MPN: 4177000Model: Starlink Mini Vehicle Roof Rack MountType: Roof Rack Mount\nCompatibility: Starlink Mini\nFor Vehicle Roof Racks\nColor: WhiteView More Info"
+            },
+            {
+                "productName": "Starlink Standard 15 Meter RJ45 Ethernet Cable for Standard KIT",
+                "productLink": "https://www.startech.com.bd/starlink-standard-15-meter-rj45-ethernet-cable",
+                "price": "Up Coming",
+                "productDescription": "Key Features\n                            MPN: 4851100Model: Starlink Standard RJ45 CableType: RJ45 Ethernet Cable\nCable Length: 15m\nCompatibility: Starlink Standard\nColor: BlackView More Info"
+            },
+            {
+                "productName": "Starlink Gen 3 Router Mount",
+                "productLink": "https://www.startech.com.bd/starlink-gen-3-router-mount",
+                "price": "Up Coming",
+                "productDescription": "Key Features\n                            MPN: 38620000Model: Starlink Gen 3 Router MountType: Router Mount\nCompatibility: Gen 3 Router\nMaterial: ABS plastic\nColor: WhiteView More Info"
+            },
+            {
+                "productName": "Starlink Mini Wall Mount for Mini KIT",
+                "productLink": "https://www.startech.com.bd/starlink-mini-wall-mount",
+                "price": "Up Coming",
+                "productDescription": "Key Features\n                            MPN: 4172001Model: Starlink Mini Wall MountType: Mini Wall Mount\nCompatibility: Starlink Mini, 4-inch Overhang Maximum\nDurable, weather-resistant materials\nColor: GrayView More Info"
+            },
+            {
+                "productName": "Starlink Mini Travel Kit",
+                "productLink": "https://www.startech.com.bd/starlink-mini-travel-kit",
+                "price": "Up Coming",
+                "productDescription": "Key Features\n                            MPN: 3200207Model: Starlink Mini Travel KitType: Travel Kit\nCompatibility: Starlink Mini\nShields Against Dirt, Scrapes and Bumps\nColor: BlackView More Info"
+            },
+            {
+                "productName": "Starlink Standard Wall Mount for Standard KIT",
+                "productLink": "https://www.startech.com.bd/starlink-standard-wall-mount",
+                "price": "Up Coming",
+                "productDescription": "Key Features\n                            MPN: 4172001Model: Starlink Standard Wall MountType: Standard Wall Mount\nCompatibility: Starlink Standard, Starlink Enterprise, 4 inch Overhang Maximum\nDurable, weather-resistant materials\nEasy to install and adjustView More Info"
+            },
+            {
+                "productName": "Starlink Standard Roof Rack Mount for Standard KIT",
+                "productLink": "https://www.startech.com.bd/starlink-standard-roof-rack-mount",
+                "price": "Up Coming",
+                "productDescription": "Key Features\n                            MPN: 4759112Model: Starlink Standard Roof Rack MountType: Standard Roof Rack Mount\nThickness: 15 mm (0.59 in) to 44.5 mm (1.75 in)\nMaximum width: 95 mm (3.74 in)\nCompatibility: Starlink Standard, Starlink EnterpriseView More Info"
+            },
+            {
+                "productName": "Starlink Standard 45 Meter RJ45 Ethernet Cable for Standard KIT",
+                "productLink": "https://www.startech.com.bd/starlink-standard-45-meter-rj45-ethernet-cable",
+                "price": "Up Coming",
+                "productDescription": "Key Features\n                            MPN: 4856100Model: Starlink Standard RJ45 CableType: RJ45 Ethernet Cable\nCable Length: 45m\nCompatibility: Starlink Standard\nColor: BlackView More Info"
+            }
+        ]
+    },
+    {
+        "categoryName": "Drone",
+        "categoryLink": "https://www.startech.com.bd/drone",
+        "products": [
+            {
+                "productName": "DJI Mini 5 Pro Fly More Combo Plus With RC2",
+                "productLink": "https://www.startech.com.bd/dji-mini-5-pro-fly-more-combo-plus",
+                "price": "124,999৳",
+                "productDescription": "Key Features\n                            Model: Mini 5 Pro Fly More Combo Plus1-Inch Large CMOS Camera, Upgraded ActiveTrack 360°\nUnder 249g – Up to 52 Minutes of Flight\nNightscape Omnidirectional Obstacle Sensing\nTrue Vertical Shooting and 225° Flexible Gimbal RotationView More Info"
+            },
+            {
+                "productName": "E88 Pro Foldable Camera Toy Drone",
+                "productLink": "https://www.startech.com.bd/e88-pro-foldable-camera-toy-drone",
+                "price": "5,700৳",
+                "productDescription": "Key Features\n                            Model: E88 ProFoldable design and double flight time\nWiFi 4K HD FPV Dual Camera\nMultiple Flight Modes\nCompatible with all smartphonesView More Info"
+            },
+            {
+                "productName": "DK W1 ProS 4K Toy Drone",
+                "productLink": "https://www.startech.com.bd/dk-w1-pros-toy-drone",
+                "price": "7,990৳",
+                "productDescription": "Key Features\n                            Model: W1 ProSUAV Drone with 4K Ultra HD Camera\nFlight Time: About 15-18 minutes\nBattery : 3.7V 3000 mAh\nDistance: 200 MetersView More Info"
+            },
+            {
+                "productName": "E99 Pro 2 4K Dual Camera WiFi Mini Toy Drone",
+                "productLink": "https://www.startech.com.bd/e99-pro-2-4k-camera-toy-drone",
+                "price": "5,900৳",
+                "productDescription": "Key Features\n                            Model: DroneX ProFoldable and Durable Design\n6-Axis Gyro for Easy Control\nBattery: 1.5V, 1800 mAh \nDistance: Up to 100 MeterView More Info"
+            },
+            {
+                "productName": "DK S6 Mini Dual Camera 6K Toy Drone With Wi-Fi & GPS",
+                "productLink": "https://www.startech.com.bd/dk-s6-mini-toy-drone",
+                "price": "9,500৳",
+                "productDescription": "Key Features\n                            Model: S6 Mini6K Ultra HD Camera With Built-In Wi-Fi, GPS\nFlight Time: About 30 minutes\nBattery: 7.4V 1600mAh\nDistance: 65-70 FeetView More Info"
+            },
+            {
+                "productName": "DK U2 ProS 4K Toy Drone",
+                "productLink": "https://www.startech.com.bd/dk-u2-pros-toy-drone",
+                "price": "4,900৳",
+                "productDescription": "Key Features\n                            Model: U2 ProS4K HD Camera\nControl Distance: 200m\nBattery: 3.7V 3000mAh\nFlight Time: 10–15 minutesView More Info"
+            },
+            {
+                "productName": "DK W7 GPS 4K Toy Drone With RC Toy Remote",
+                "productLink": "https://www.startech.com.bd/dk-w7-gps-toy-drone",
+                "price": "16,500৳",
+                "productDescription": "Key Features\n                            Model: W7 GPSQuadcopter 4K HD Camera\nMax Wind Speed: 10 - 20 km/h\nBattery: 3.7V 2000mAh\nFlight Time: About 18 minutesView More Info"
+            },
+            {
+                "productName": "DK W7 GPS 4K Toy Drone Without RC",
+                "productLink": "https://www.startech.com.bd/dk-w7-gps-4k-toy-drone",
+                "price": "12,800৳",
+                "productDescription": "Key Features\n                            Model: W7 GPSQuadcopter 4K HD Camera\nMax Wind Speed: 10 - 20 km/h\nBattery: 3.7V 2000mAh\nFlight Time: About 18 minutesView More Info"
+            },
+            {
+                "productName": "DK W1 Pro Folding 4K Toy Drone",
+                "productLink": "https://www.startech.com.bd/dk-w1-pro-4k-drone",
+                "price": "7,490৳",
+                "productDescription": "Key Features\n                            Model: W1 ProFoldable and Durable Design\nPlay Time: 13-15 minutes\n2.4G Remote Control \nDistance: 80-100 MetersView More Info"
+            },
+            {
+                "productName": "Traveller 3 Drone with 4k Camera",
+                "productLink": "https://www.startech.com.bd/traveller-3-drone-with-4k-camera",
+                "price": "7,000৳",
+                "productDescription": "Key Features\n                            Model: Traveller 390-degree camera angle\n5G Wi-Fi frequency\nOne Button Auto Return\nAndroid & iOS Operating SystemView More Info"
+            },
+            {
+                "productName": "K918 MAX GPS 4K Toy Drone",
+                "productLink": "https://www.startech.com.bd/k918-max-gps-4k-toy-drone",
+                "price": "19,000৳",
+                "productDescription": "Key Features\n                            Model: K918 MAXFoldable and durable design\nRemote electric 90° camera adjustment\n360° Omnidirectional Obstacle Avoidance\nDistance: Up to 2000 metersView More Info"
+            },
+            {
+                "productName": "DJI Neo Standard",
+                "productLink": "https://www.startech.com.bd/dji-neo-standard",
+                "price": "26,000৳",
+                "productDescription": "Key Features\n                            Model: Neo Standard1/2-inch image sensor\nEffective Operating Range: 50 m\nSingle-axis mechanical gimbal (tilt)\nTakeoff Weight: Approx. 135 gView More Info"
+            },
+            {
+                "productName": "DJI Neo Fly More Combo Drone",
+                "productLink": "https://www.startech.com.bd/dji-neo-fly-more-combo-drone",
+                "price": "39,800৳",
+                "productDescription": "Key Features\n                            Model: Neo Fly1/2-inch image sensor\nEffective Operating Range: 50 m\nSingle-axis mechanical gimbal (tilt)\nTakeoff Weight: Approx. 135 gView More Info"
+            },
+            {
+                "productName": "DJI Mini 4K Stardard",
+                "productLink": "https://www.startech.com.bd/dji-mini-4k",
+                "price": "43,500৳",
+                "productDescription": "Key Features\n                            Model: Mini 4KImage Sensor: 1/2.3-inch CMOS, Effective Pixels: 12 MP\n31-Min Max Flight Time, Lightweight Design\n10 km Video Transmission, 3-axis Camera Stabilization\n38 kph (Level 5) Wind Resistance, Intelligent ModesView More Info"
+            },
+            {
+                "productName": "DJI Mini 4K Fly More Combo Drone (Global Version)",
+                "productLink": "https://www.startech.com.bd/dji-mini-4k-fly-more-combo-drone",
+                "price": "53,500৳",
+                "productDescription": "Key Features\n                            Model: Mini 4K Fly More ComboImage Sensor: 1/2.3-inch CMOS, Effective Pixels: 12 MP\n31-Min Max Flight Time, 246g Lightweight Design\n10 km Video Transmission, 3-axis Camera Stabilization\n38 kph (Level 5) Wind Resistance, Intelligent ModesView More Info"
+            },
+            {
+                "productName": "DJI Neo Motion Fly More Combo Drone",
+                "productLink": "https://www.startech.com.bd/dji-neo-motion-fly-more-combo-drone",
+                "price": "55,900৳",
+                "productDescription": "Key Features\n                            Model: Neo Motion Fly More ComboImage Sensor: 1/2-inch Image Sensor, Level-4 Wind Resistance\n135 g Light & Portable Design, Palm Takeoff & Landing\nAI Subject Tracking, QuickShots, Multiple Control Options\n4K Ultra-Stabilized Video, Full-Coverage Propeller GuardsView More Info"
+            },
+            {
+                "productName": "DJI Mini 3 Drone Fly More Combo with DJI RC Remote Controller",
+                "productLink": "https://www.startech.com.bd/dji-mini-3-drone-fly-more-combo",
+                "price": "73,800৳",
+                "productDescription": "Key Features\n                            Model: Mini 3 Fly More ComboUp 4K30 Video & 12MP Stills\nUp to 38 Minutes of Flight Time\nUp to 36 mph Flight Speed\nIncludes DJI RC Remote & Fly More ComboView More Info"
+            },
+            {
+                "productName": "DJI Flip Drone Fly More Combo",
+                "productLink": "https://www.startech.com.bd/dji-flip-drone-fly-more-combo",
+                "price": "85,500৳",
+                "productDescription": "Key Features\n                            Model: Flip Fly More Combo3-axis mechanical gimbal Stabilization\n1/1.3-inch image sensor, 48 MP\nMax Flight Time: Up to 31 minutes\nMax Flight Distance: Up to 14 kmView More Info"
+            },
+            {
+                "productName": "DJI MINI 4 PRO Fly More Combo + DJI RC2",
+                "productLink": "https://www.startech.com.bd/dji-mini-4-pro-fly-more-combo-with-rc2",
+                "price": "111,800৳",
+                "productDescription": "Key Features\n                            Model: MINI 4 PRO Fly More ComboOmnidirectional Binocular Vision System\n1/1.3-inch CMOS, 48 MP\nMax Flight Time: Up to 34 minutes\nMax Flight Distance: Up to 18 kmView More Info"
+            },
+            {
+                "productName": "DJI Mini 5 Pro Fly More Combo With RC2",
+                "productLink": "https://www.startech.com.bd/dji-mini-5-pro-fly-more-combo",
+                "price": "117,999৳",
+                "productDescription": "Key Features\n                            Model: Mini 5 Pro Fly More Combo1-Inch Large CMOS Camera, Upgraded ActiveTrack 360°\nUnder 249g – Up to 36 Minutes of Flight\nNightscape Omnidirectional Obstacle Sensing\nTrue Vertical Shooting and 225° Flexible Gimbal RotationView More Info"
+            }
+        ]
+    },
+    {
+        "categoryName": "Gimbal",
+        "categoryLink": "https://www.startech.com.bd/gimbal",
+        "products": [
+            {
+                "productName": "Feiyu Pocket 3 Cordless Detachable 3-Axis Gimbal Camera",
+                "productLink": "https://www.startech.com.bd/feiyu-pocket-3-kit",
+                "price": "30,050৳",
+                "productDescription": "Key Features\n                            Model: Pocket 3 KitCamera Sensor: 1/2.3\" CMOS Sensor\nImage Size: 4000*3000\nDesign: Cordless & Detachable\n4K/60FPS HD, 130° Super Wide-Angle, 12MPView More Info"
+            },
+            {
+                "productName": "DJI Osmo Pocket 3 Gimbal Stabilizer Action Camera",
+                "productLink": "https://www.startech.com.bd/dji-osmo-pocket-3-action-camera",
+                "price": "56,000৳",
+                "productDescription": "Key Features\n                            Model: Osmo Pocket 3Camera Sensor: 1-inch CMOS Sensor\nGimbal: Three-Axis Gimbal Stabilization\nDisplay: 2-inch Rotatable OLED Touchscreen\nMicrophone: Built-in Three-Microphone ArrayView More Info"
+            },
+            {
+                "productName": "DJI Osmo Pocket 3 Creator Combo 3 Axis Gimbal Stabilizer Action Camera",
+                "productLink": "https://www.startech.com.bd/dji-osmo-pocket-3-creator-combo-action-camera",
+                "price": "69,000৳",
+                "productDescription": "Key Features\n                            Model: Osmo Pocket 3 Creator ComboCamera Sensor: 1-inch CMOS Sensor\nGimbal: Three-Axis Gimbal Stabilization\nDisplay: 2-inch Rotatable OLED Touchscreen\nMicrophone: Built-in Three-Microphone ArrayView More Info"
+            },
+            {
+                "productName": "DJI Osmo Pocket 2 Creator Combo 3 Axis Gimbal Stabilizer Action Camera",
+                "productLink": "https://www.startech.com.bd/dji-pocket-2-creator-combo-3-action-camera",
+                "price": "Out Of Stock",
+                "productDescription": "Key Features\n                            Model: Pocket 2 Creator ComboCamera with 1/1.7\" 64MP CMOS Sensor\nUp to 8x Zoom, 93° Angle of View\nOptional Wi-Fi & Bluetooth Monitoring\nTime-Lapse, Motion-Lapse, Panorama ModesView More Info"
+            },
+            {
+                "productName": "Hohem iSteady XE Kit Smartphone Gimbal Stabilizer",
+                "productLink": "https://www.startech.com.bd/hohem-isteady-xe-kit-gimbal-stabilizer",
+                "price": "7,000৳",
+                "productDescription": "Key Features\n                            Model: iSteady XE KitiSteady 7.0 Algorithm, One-Tap Blockbuster\nMagnetic Fill Light, Responsive Smart Tracking\nLighter Weight, Better Hold, Simplified Control\nUp to 17-hour Battery LifeView More Info"
+            },
+            {
+                "productName": "Zhiyun SMOOTH-X2 Smartphone Gimbal",
+                "productLink": "https://www.startech.com.bd/zhiyun-smooth-x2-smartphone-gimbal",
+                "price": "8,500৳",
+                "productDescription": "Key Features\n                            MPN: C030115GOModel: SMOOTH-X2Horizontal & Vertical Orientation\n10.4\" Five-Step Selfie Stick Extension\nGesture Controls, SmartFollow\nMagnetic double-side fill lightView More Info"
+            },
+            {
+                "productName": "Hohem iSteady X3 SE Foldable Gimbal Stabilizer",
+                "productLink": "https://www.startech.com.bd/hohem-isteady-x3-se-gimbal-stabilizer",
+                "price": "8,200৳",
+                "productDescription": "Key Features\n                            Model: iSteady X3 SEiSteady 8.0 stabilization\nUp to 11-hour Battery Life\nDetachable Remote, Portable & Foldable\nPerson & Object TrackingView More Info"
+            },
+            {
+                "productName": "Zhiyun Smooth-Q3 3-Axis Gimbal Stabilizer",
+                "productLink": "https://www.startech.com.bd/zhiyun-smooth-q3-gimbal",
+                "price": "8,999৳",
+                "productDescription": "Key Features\n                            MPN: C030112INTModel: Smooth-Q3Integrated rotatable fill light with touch button\nSmartFollow 3.0 and Gesture Control\n3-Axis Gimbal Stabilizer\nProfessional Cinematic FeaturesView More Info"
+            },
+            {
+                "productName": "Baseus SUYT-D0G Control Smartphone Handheld Folding Gimbal Stabilizer",
+                "productLink": "https://www.startech.com.bd/baseus-suyt-d0g-control-smartphone-handheld-folding-gimbal-stabilizer",
+                "price": "8,500৳",
+                "productDescription": "Key Features\n                            MPN: SUYT-D0GModel: SUYT-D0GMetal arm anti-shake and stable\nSix-axis attitude sensor control\nFreely switch between horizontal and vertical\nUniversal rotating rocking barView More Info"
+            },
+            {
+                "productName": "Zhiyun Smooth-Q3 Combo 3-Axis Gimbal Stabilizer",
+                "productLink": "https://www.startech.com.bd/zhiyun-smooth-q3-combo-gimbal",
+                "price": "10,500৳",
+                "productDescription": "Key Features\n                            MPN: C030113CModel: Smooth-Q3 ComboAdvanced Smart Tracking\nLandscape and Portrait Modes\nSmartFollow 3.0 and Gesture Control\nIncludes Wrist Strap and Protective BagView More Info"
+            },
+            {
+                "productName": "Zhiyun Smooth Q4 Handheld Gimbal Stabilizer",
+                "productLink": "https://www.startech.com.bd/zhiyun-smooth-q4-handheld-gimbal",
+                "price": "9,900৳",
+                "productDescription": "Key Features\n                            Model: Smooth Q4Compact Folding 3-Axis Stabilizer\nMagnetic Fill Light, 215mm extendable rod\nTripod Accessory, Wrist Strap, VIP Card\nUSB Type-C Port for Charging & FirmwareView More Info"
+            },
+            {
+                "productName": "DJI Osmo Mobile SE Smartphone Gimbal with 3-Axis Stabilization",
+                "productLink": "https://www.startech.com.bd/dji-osmo-mobile-se-smartphone-gimbal",
+                "price": "8,450৳",
+                "productDescription": "Key Features\n                            MPN: M05E01Model: Osmo Mobile SESmartphone Gimbal Stabilizer\nUp to 290 g Load Capacity\nSupports Smartphones up to 3.3\" Wide\nTime-Lapse, Hyperlapse, and Panorama ModesView More Info"
+            },
+            {
+                "productName": "Zhiyun Smooth-X2 COMBO Smartphone Gimbal",
+                "productLink": "https://www.startech.com.bd/zhiyun-smooth-x2-combo-smartphone-gimbal",
+                "price": "10,800৳",
+                "productDescription": "Key Features\n                            MPN: C030115INTCBModel: Smooth-X2 COMBOProtective Carry Bag\nMagnetic Fill Light with 4-Filter Set\nMagnetic Fill Light with 4-Filter Set\n2-Axis Movements, iOS/Android AppView More Info"
+            },
+            {
+                "productName": "Hohem iSteady Pro4 3-Axis Action Camera Gimbal Stabilizer",
+                "productLink": "https://www.startech.com.bd/hohem-isteady-pro4-gimbal-stabilizer",
+                "price": "11,100৳",
+                "productDescription": "Key Features\n                            Model: iSteady Pro4iSteady 5.0 Stabilization, 3-axis Stabilization\nQuick Mounting, Built-in Power Bank\nCompatible with Action Cameras\n14 Hours Battery Life, IPX4 Splash ProofView More Info"
+            },
+            {
+                "productName": "Hohem iSteady V3 Foldable AI Gimbal Stabilizer",
+                "productLink": "https://www.startech.com.bd/hohem-isteady-v3-gimbal-stabilizer",
+                "price": "12,600৳",
+                "productDescription": "Key Features\n                            Model: iSteady V3iSteady 8.0 Stabilization, Three-Color Fill Light\nDetachable Remote Control, Magnetic AI Tracker\nConnectivity: Bluetooth 5.1, Built-In Extension Rod\nBattery Capacity: 1400mAh, Up to 13 Hours Battery LifeView More Info"
+            },
+            {
+                "productName": "DJI Osmo Mobile 7 Smartphone Gimbal",
+                "productLink": "https://www.startech.com.bd/dji-osmo-mobile-7-gimbal",
+                "price": "10,900৳",
+                "productDescription": "Key Features\n                            Model: Osmo Mobile 7Battery Capacity: 3350 mAh\nConnectivity: Bluetooth 5.3, WiFi\nBuilt-in Tripod, Magnetic Phone Clamp\nFeatures: Active Track 7.0, Shot GuidesView More Info"
+            },
+            {
+                "productName": "FEIYU Vimble 3 Handheld Stabilizer",
+                "productLink": "https://www.startech.com.bd/feiyu-vimble-3-stabilizer",
+                "price": "11,750৳",
+                "productDescription": "Key Features\n                            Model: Vimble 33-Axis Stabilization, Foldable, and Compact\nBuilt-in 198mm/7.8in Selfie Stick\nRuntime up to 10 Hours\nAB Point Axis/Focus Position Mark ButtonView More Info"
+            },
+            {
+                "productName": "FEIYU VB4 Handheld Stabilizer",
+                "productLink": "https://www.startech.com.bd/feiyu-vb4-stabilizer",
+                "price": "13,900৳",
+                "productDescription": "Key Features\n                            Model: VB43-Axis Stabilization, Foldable, and Compact\nBuilt-in 8.5''/216mm Extension Rod\nSupport Face Tracking, Gesture & Motion Control\n360 Panorama, Timelapse, Dolly ZoomView More Info"
+            },
+            {
+                "productName": "Zhiyun SMOOTH 5 Smartphone Gimbal",
+                "productLink": "https://www.startech.com.bd/zhiyun-smooth-5-smartphone-gimbal",
+                "price": "13,690৳",
+                "productDescription": "Key Features\n                            MPN: C030114GModel: SMOOTH 52-hour PD fast charging \nThe low angle and super wide-angle shooting supported \nMagnetic fill light for 360Â° all-around lighting\nSmart follow, Timelapse, Slow-motion shootingView More Info"
+            },
+            {
+                "productName": "DJI Osmo Mobile 6 Foldable Smartphone Gimbal",
+                "productLink": "https://www.startech.com.bd/dji-osmo-mobile-6-gimbal",
+                "price": "13,999৳",
+                "productDescription": "Key Features\n                            Model: Osmo Mobile 6Portable and Foldable\nGesture Control\nActiveTrack 5.0\nDynamic ZoomView More Info"
+            }
+        ]
+    },
+    {
+        "categoryName": "Table PC",
+        "categoryLink": "https://www.startech.com.bd/tablet-pc",
+        "products": [
+            {
+                "productName": "TECLAST P85T 4GB 64GB Storage 8 inch Android Kids Tablet",
+                "productLink": "https://www.startech.com.bd/teclast-p85t-8-inch-android-kids-tablet",
+                "price": "11,000৳",
+                "productDescription": "Key Features\n                            Model: P85TDisplay: 8-inch IPS 1280×800\nCPU: Allwiner A532, GPU: Arm G57 MC01\nRAM: 4GB, Storage: 64GB\nBattery: 5000mAh, Type-C ChargingView More Info"
+            },
+            {
+                "productName": "Teclast P30 4GB 64GB 10.1\" Tablet Wi-Fi Only",
+                "productLink": "https://www.startech.com.bd/teclast-p30-4gb-tablet",
+                "price": "12,000৳",
+                "productDescription": "Key Features\n                            Model: P30 Display: 10.1-inch 1280×800 IPS\nCPU: allwinner A523\nRAM: 4GB, Storage: 64GB\nBattery: 6000mAh, Type-C ChargingView More Info"
+            },
+            {
+                "productName": "TECLAST P30T 4GB 64GB Storage 10.1 inch Android Kids Tablet",
+                "productLink": "https://www.startech.com.bd/teclast-p30t-10-1-inch-android-kids-tablet",
+                "price": "12,800৳",
+                "productDescription": "Key Features\n                            Model: P30TDisplay: 10.1-inch IPS 1280×800\nCPU: allwinner A523, GPU: Arm G57 MC01\nRAM: 4GB, Storage: 64GB\nBattery: 6000mAh 3.8V, Type-C ChargingView More Info"
+            },
+            {
+                "productName": "HONOR Pad X7",
+                "productLink": "https://www.startech.com.bd/honor-pad-x7",
+                "price": "12,700৳",
+                "productDescription": "Key Features\n                            MPN: JMS-W09Model: Pad X7Display: 8.7-inch TFT LCD, 800 x 1340 pixels, 90Hz\nRAM: 4GB Storage: 64GB ROM\nCPU: Qualcomm Snapdragon 680 (6 nm)\nBattery: Li-ion 7020 mAh, 10W Wired Fast ChargingView More Info"
+            },
+            {
+                "productName": "Samsung Galaxy Tab A9 LTE (Wi-Fi + SIM)",
+                "productLink": "https://www.startech.com.bd/samsung-galaxy-tab-a9-lte-tablet",
+                "price": "13,990৳",
+                "productDescription": "Key Features\n                            MPN: SM-X115Model: Galaxy Tab A9Display: 8.7\" TFT WXGA+ (1340 x 800)\nProcessor: Mediatek Helio G99 (6nm)\nMemory: 4GB RAM, 64GB Storage\nFeatures: Li-Po 5100 mAh, 15W Fast ChargeView More Info"
+            },
+            {
+                "productName": "Walton Walpad 8G Tablet",
+                "productLink": "https://www.startech.com.bd/walton-walpad-8g-tablet",
+                "price": "8,999৳",
+                "productDescription": "Key Features\n                            Model: Walpad 8GDisplay: 8\" HD (1280x800) IPS Display\nCPU: 2 GHz Quad-Core Processor\nRAM: 4GB LPDDR4, Storage: 64GB\nFeatures: 5000mAh Battery, Type-C PortView More Info"
+            },
+            {
+                "productName": "Teclast P30 Tablet",
+                "productLink": "https://www.startech.com.bd/teclast-p30-tablet",
+                "price": "14,500৳",
+                "productDescription": "Key Features\n                            Model: P30 Display: 10.1-inch 1280×800 IPS\nCPU: Unisoc T606\nRAM: 4GB, Storage: 128GB\nBattery: 6000mAh, Type-C ChargingView More Info"
+            },
+            {
+                "productName": "Teclast P30T 10.1 Inch Unisoc T606 Tablet with All-in-one KIT",
+                "productLink": "https://www.startech.com.bd/teclast-p30t-10-1-inch-tablet",
+                "price": "15,800৳",
+                "productDescription": "Key Features\n                            Model: P30T 10.1 InchDisplay: 10.1-inch, 1280×800 IPS\nCPU: Unisoc T606 Octa-core, GPU: Arm G57 MC01\nRAM: 4GB LPDDR5 , Storage: 128GB\nBattery: 6000mAh, Type-C Charging, Android 14View More Info"
+            },
+            {
+                "productName": "Teclast P50 2025 11\" Tablet",
+                "productLink": "https://www.startech.com.bd/teclast-p50-2025-11-inch-tablet",
+                "price": "16,300৳",
+                "productDescription": "Key Features\n                            Model: P50 2025Display: 10.92-inch IPS, 1280×800p\nCPU: Unisoc T606 8-Core, GPU: Arm Mali-G57\nRAM: 8GB, Storage: 128GB\nBattery: 7000mAh, Type-C Charging, Android 15View More Info"
+            },
+            {
+                "productName": "Walton Walpad 9G",
+                "productLink": "https://www.startech.com.bd/walton-walpad-9g-tablet",
+                "price": "16,990৳",
+                "productDescription": "Key Features\n                            Model: Walpad 9GDisplay: 8.68\" HD (1340x800) IPS Display\nCPU: Helio G99, 2.2GHz Octa Core Processor\nRAM: 4GB LPDDR4, Storage: 128GB\nFeatures: 5100mAh Battery, 18W Type-C ChargingView More Info"
+            },
+            {
+                "productName": "HONOR Pad X8",
+                "productLink": "https://www.startech.com.bd/honor-pad-x8-tablet",
+                "price": "19,500৳",
+                "productDescription": "Key Features\n                            Model: Pad X8Display: 10.1\" FHD+ (1920 x 1200)\nCPU: MediaTek MT8786 (12nm)\nRAM: 4GB, Storage: 64GB\nBattery: 5100 mAh, 4GB LTE SIM SupportView More Info"
+            },
+            {
+                "productName": "HONOR Pad X8a",
+                "productLink": "https://www.startech.com.bd/honor-pad-x8a-4gb-128gb-tablet",
+                "price": "19,900৳",
+                "productDescription": "Key Features\n                            Model: Pad X8aDisplay: 11\" FHD+ (1920 x 1200)\nCPU: Qualcomm SM6225 Snapdragon 680 4G (6 nm)\nRAM: 4GB, Storage: 128GB\nBattery: 8300mAh, Li-ion PolymerView More Info"
+            },
+            {
+                "productName": "Infinix Xpad 20",
+                "productLink": "https://www.startech.com.bd/infinix-xpad-20",
+                "price": "19,900৳",
+                "productDescription": "Key Features\n                            Model: Xpad 20Display: 11\" IPS FHD+, 1200*1920 pixels, 90Hz\nRAM: 6GB Storage: 128GB ROM\nCPU: Mediatek Helio G88 Octa-core  (12 nm)\nBattery: 7000 mAh,10W Wired Fast ChargingView More Info"
+            },
+            {
+                "productName": "Amazon Fire HD 8 12th Gen 8\" FHD Tablet",
+                "productLink": "https://www.startech.com.bd/amazon-fire-hd-8-12th-gen-tablet",
+                "price": "20,000৳",
+                "productDescription": "Key Features\n                            Model: Fire HD 8Display: 8\" HD 1280 x 800 Resolution \nCPU: Mediatek MT8169A Hexa-core 2.0 GHz\nRAM: 2GB, Storage: 32GB\nBattery: Up to 13 hoursView More Info"
+            },
+            {
+                "productName": "Teclast T50 Mini 8GB RAM 128GB ROM 8.7\" WXGA+ IPS Tablet (Sim Supported)",
+                "productLink": "https://www.startech.com.bd/teclast-t50-mini-tablet",
+                "price": "19,800৳",
+                "productDescription": "Key Features\n                            Model: T50 MiniDisplay: 8.7-inch IPS, WXGA+ 1340×800p\nCPU: MediaTek MT8781 8-Core, GPU: Arm Mali-G57\nRAM: 8GB, Storage: 128GB (UFS)\nBattery: 5100mAh, Type-C Charging, Android 15View More Info"
+            },
+            {
+                "productName": "TECLAST T50 Plus 6GB 256GB Storage 11 inch Android Tablet",
+                "productLink": "https://www.startech.com.bd/teclast-t50-plus-android-tablet",
+                "price": "19,800৳",
+                "productDescription": "Key Features\n                            Model: T50 PlusDisplay: 10.95-inch 1920×1200\nCPU: Unisoc T606 8-Core, GPU: Arm Mali-G57 1Core@ 650MHz\nRAM: 6GB, Storage: 256GB\nBattery: 8000mAh, Type-C ChargingView More Info"
+            },
+            {
+                "productName": "Teclast T60AI 12\" Tablet",
+                "productLink": "https://www.startech.com.bd/teclast-t60ai-tablet",
+                "price": "20,500৳",
+                "productDescription": "Key Features\n                            Model: T60AIDisplay: 11.97-inch 2K 1200×2000\nCPU: Allwinner A733 8-Core, GPU: Allwinner IMG BXM-4-64 MC1\nRAM: 6GB LPDDR5 , Storage: 128GB\nBattery: 8000mAh, Type-C Charging, Android 15View More Info"
+            },
+            {
+                "productName": "Amazon Fire 7 Kids 12th Gen 7\" Display Tablet",
+                "productLink": "https://www.startech.com.bd/amazon-fire-7-kids-tablet",
+                "price": "21,000৳",
+                "productDescription": "Key Features\n                            Model: Fire 7 KidsDisplay: 7\" IPS 1024 x 600 Resolution \nCPU: Quad-Core 2.0 GHz\nRAM: 2GB, Storage: 16GB\nBattery: Up to 10 hoursView More Info"
+            },
+            {
+                "productName": "Teclast T60 Plus 12 inch Android Tablet With Sim Supported",
+                "productLink": "https://www.startech.com.bd/teclast-t60-plus-android-tablet",
+                "price": "22,000৳",
+                "productDescription": "Key Features\n                            Model: T60 PlusDisplay: 11.97-inch 2K 1200×2000\nCPU: MTK MT6769 8-Core, GPU: Mali G52 MC2\nRAM: 6GB, Storage: 128GB\nBattery: 8000mAh, Type-C ChargingView More Info"
+            },
+            {
+                "productName": "Amazon Fire HD 10 11th Gen Octa-Core 10.1\" FHD Tablet with Alexa",
+                "productLink": "https://www.startech.com.bd/amazon-fire-hd-10-11th-gen-tablet",
+                "price": "22,000৳",
+                "productDescription": "Key Features\n                            Model: Fire HD 10Display: 10.1\" touchscreen 1080p full HD\nCPU: Octa-core 2.0 GHz\nRAM: 3GB, Storage: 32GB \nBattery: Up to 13 hoursView More Info"
+            }
+        ]
+    },
+    {
+        "categoryName": "TV",
+        "categoryLink": "https://www.startech.com.bd/television-startech",
+        "products": [
+            {
+                "productName": "Smart SEL-32B24K 32\" HD Basic LED TV",
+                "productLink": "https://www.startech.com.bd/smart-sel-32b24k-32-inch-hd-led-tv",
+                "price": "14,430৳",
+                "productDescription": "Key Features\n                            Model: SEL-32B24KScreen Size: 32 Inch\nResolution: HD (1360x768) Resolution\nSpeaker: 10W+10W speakers\nPorts: 1x USB, 2x HDMi, Audio Line OutView More Info"
+            },
+            {
+                "productName": "Haier H32D2M 32 Inch Miracast HD LED TV",
+                "productLink": "https://www.startech.com.bd/haier-h32d2m-32-hd-led-television",
+                "price": "15,675৳",
+                "productDescription": "Key Features\n                            Model: H32D2M32 inch HD(1366 x 768) LED Display\nInput: HDMI x 3, USB x 1, Audio Ports\nResponse time: 20ms\nMiracast Screen MirroringView More Info"
+            },
+            {
+                "productName": "Rangs RG32HX 32\" HD LED Android Google TV",
+                "productLink": "https://www.startech.com.bd/rangs-rg32hx-google-tv",
+                "price": "22,705৳",
+                "productDescription": "Key Features\n                            Model: RG32HXResolution: HD (1366 x 768 Pixels)\nAudio Output: 10W x 2 Speakers\nConnectivity: HDMI-ARC, USB, Wi-Fi, Ethernet (LAN)\nOperating System: Android 11.0, UI Type: Google TVView More Info"
+            },
+            {
+                "productName": "Smart SEL-32S22KS 32\" HD LED Android TV",
+                "productLink": "https://www.startech.com.bd/smart-sel-32s22ks-32-inch-hd-android-tv",
+                "price": "19,125৳",
+                "productDescription": "Key Features\n                            Model: SEL-32S22KSResolution: HD (1360x768) Resolution \n2x HDMI, 2x USB, Audio Out\nRAM: 1GB, ROM: 8GB\nPlay store, App store, YouTube, Facebook, Netflix, Toffee supportedView More Info"
+            },
+            {
+                "productName": "Haier H32K85FX 32\" DLED HD Google TV",
+                "productLink": "https://www.startech.com.bd/haier-h32k85fx-32-inch-google-tv",
+                "price": "21,251৳",
+                "productDescription": "Key Features\n                            Model: H32K85FXDisplay: 32\" DLED (1366 x 768)\nCPU: ARM Cortex Advanced Quad-Core\nRAM: 1.5 GB DDR3, ROM: 8 GB\nGoogle Chromecast, Dolby Audio, Google Voice AssistantView More Info"
+            },
+            {
+                "productName": "SINGER S32 SLE32E3AGOTV 32 Inch HD Android Google TV",
+                "productLink": "https://www.startech.com.bd/singer-srtv-sle32e3agotv-32-inch-android-television",
+                "price": "24,490৳",
+                "productDescription": "Key Features\n                            MPN: SRTV-SLE32E3AGOTVModel: S32 SLE32E3AGOTVResolution: HD (1366 x 768)\nLatest Official Android 11 OS\nChrome cast Built-in\nDolby Digital SoundView More Info"
+            },
+            {
+                "productName": "Samsung 32H5000F 32\" HD LED Smart TV",
+                "productLink": "https://www.startech.com.bd/samsung-32h5000f-32-inch-smart-tv",
+                "price": "23,010৳",
+                "productDescription": "Key Features\n                            Model: 32H5000FDisplay: 32\" HD (1366 x 768), 60Hz\nPicture Engine: Hyper Real\nSpeakers: 2x 10W RMS, Dolby Sound\nFeatures: Wi-Fi 5, Bluetooth, HDR 10+, Tizen Smart TVView More Info"
+            },
+            {
+                "productName": "Haier H32S80EFX 32\" QLED FHD Android Google TV",
+                "productLink": "https://www.startech.com.bd/haier-h32s80efx-32-inch-google-tv",
+                "price": "22,700৳",
+                "productDescription": "Key Features\n                            Model: H32S80EFXDisplay: 32\" FHD ( 1920 x 1080)\nCPU: ARM Cortex Advanced Quad-Core\nRAM: 1.5 GB DDR3, ROM: 8 GB\nGoogle Chromecast, Dolby Audio, Google Voice AssistantView More Info"
+            },
+            {
+                "productName": "TCL 32S5K 32\" FHD QLED Smart Google TV",
+                "productLink": "https://www.startech.com.bd/tcl-32s5k-qled-google-tv",
+                "price": "25,500৳",
+                "productDescription": "Key Features\n                            Model: 32S5KDisplay: 32\" FHD (1920 x 1080), QLED \nSpeaker: 2x10w, 2.0CH, Dolby Audio\nConnectivity: Bluetooth 5.0, Wi-Fi 4\nGoogle TV, Google Voice AssistantView More Info"
+            },
+            {
+                "productName": "SINGER SLE32GP6100TV 32\" HD Android Google TV",
+                "productLink": "https://www.startech.com.bd/singer-sle32gp6100tv-32-inch-google-tv",
+                "price": "26,490৳",
+                "productDescription": "Key Features\n                            MPN: SRTV-SLE32GP6100TVModel: SLE32GP6100TVResolution: HD (1366x768)\nRAM: 1.5GB, ROM: 16GB\nSound System: Dolby Audio (2x10W Speaker)\nDual-brand Wi-Fi, Google AssistantView More Info"
+            },
+            {
+                "productName": "Daewoo 32DE54HLB 32 Inch HD Android Google Smart TV",
+                "productLink": "https://www.startech.com.bd/daewoo-32de54hlb-hd-google-tv",
+                "price": "22,900৳",
+                "productDescription": "Key Features\n                            Model: 32DE54HLBResolution: HD (1366×768)\nRAM: 1.5GB DDR4, ROM: 8GB\nOperation System: Android 11\nFeatures: Google AssistanceView More Info"
+            },
+            {
+                "productName": "Samsung 32T4450 32\" HD LED Smart TV",
+                "productLink": "https://www.startech.com.bd/samsung-32t4450-smart-tv",
+                "price": "23,175৳",
+                "productDescription": "Key Features\n                            Model: 32T4450Display: 32\" HD (1366 x 768), HDR 10+\nSound Output (RMS):20W\nPicture Engine: Hyper Real\nPQI (Picture Quality Index): 900View More Info"
+            },
+            {
+                "productName": "Haier Candy C40K6FG 40\" DLED FHD Smart Android TV",
+                "productLink": "https://www.startech.com.bd/haier-candy-c40k6fg-40-inch-android-tv",
+                "price": "26,883৳",
+                "productDescription": "Key Features\n                            Model: Candy C40K6FGDisplay: 40\" FHD ( 1920 x 1080)\nCPU: ARM CA55 Quad Core with TEE\nRAM: 1 GB DDR3, ROM: 8 GB\nDolby Audio, Google Voice Assistant,  Android 11View More Info"
+            },
+            {
+                "productName": "Rangs RG43HX 43\" HD LED Android Google TV",
+                "productLink": "https://www.startech.com.bd/rangs-rg43hx-google-tv",
+                "price": "34,105৳",
+                "productDescription": "Key Features\n                            Model: RG43HXResolution: HD (1366 x 768 Pixels)\nAudio Output: 10W x 2 Speakers\nConnectivity: HDMI-ARC, USB, Wi-Fi, Ethernet (LAN)\nOperating System: Android 11.0, UI Type: Google TVView More Info"
+            },
+            {
+                "productName": "LG LQ63 32 Inch HD Smart LED TV",
+                "productLink": "https://www.startech.com.bd/lg-32lq636b-32-inch-smart-tv",
+                "price": "33,500৳",
+                "productDescription": "Key Features\n                            MPN: 32LQ636BModel: LQ63Display: 32\" HD (1366x768)\nProcessor: α5 Gen5 AI Processor\nSpeaker: 20W 2.0 Channel, Dolby Digital\nThinQ AI and WebOSView More Info"
+            },
+            {
+                "productName": "Hisense 43A4F4 43\" Bezelless Smart Android FHD TV",
+                "productLink": "https://www.startech.com.bd/hisense-43a4f4-43-inch-smart-tv",
+                "price": "31,122৳",
+                "productDescription": "Key Features\n                            Model: 43A4F443\" FHD(1920 x 1080) LED Display\nRefresh Rate: 60Hz, Response Time: 8ms\nInput: HDMI x 2, USB x 2, Audio Jack\nDirect LED Backlight, Google Cast, Dolby DigitalView More Info"
+            },
+            {
+                "productName": "Haier H43K85FFX 43\" DLED FHD Google TV",
+                "productLink": "https://www.startech.com.bd/haier-h43k85ffx-43-inch-google-tv",
+                "price": "30,723৳",
+                "productDescription": "Key Features\n                            Model: H43K85FFXDisplay: 43\" FHD (1920 x 1080)\nCPU: ARM Cortex Advanced Quad-Core\nRAM: 1.5 GB DDR3, ROM: 8 GB\nGoogle Chromecast, Dolby Audio, Google Voice AssistantView More Info"
+            },
+            {
+                "productName": "ROWA 43S52 43 Inch Full HD Android Smart TV",
+                "productLink": "https://www.startech.com.bd/rowa-43s52-43-inch-android-smart-tv",
+                "price": "30,500৳",
+                "productDescription": "Key Features\n                            Model: 43S52Resolution: Full HD (1920x1080)\nRAM: 1GB, ROM: 8GB\nOperating System: Android 11\nChromecast Built-inView More Info"
+            },
+            {
+                "productName": "Smart SEL-43V24K 43\" Voice Control Android LED Smart TV",
+                "productLink": "https://www.startech.com.bd/smart-sel-43v24k-43-inch-smart-tv",
+                "price": "31,425৳",
+                "productDescription": "Key Features\n                            Model: SEL-43V24KScreen Size: 43-inch\nResolution: FHD (1920x1080) pixel\nPorts: HDMI, USB, Ethernet\nFeatures: Dolby Digital Sound Technology, Wi-Fi, Google AssistantView More Info"
+            },
+            {
+                "productName": "Rangs RG43ZX 43\" 4K Android Google TV",
+                "productLink": "https://www.startech.com.bd/rangs-rg43zx-4k-google-tv",
+                "price": "39,805৳",
+                "productDescription": "Key Features\n                            Model: RG43ZXResolution: 4K UHD (3840×2160 Pixels)\nAudio Output: 10W x 2 Speakers\nConnectivity: HDMI-ARC, USB, Wi-Fi, Ethernet (LAN)\nOperating System: Android 11.0, UI Type: Google TVView More Info"
+            }
+        ]
+    }
+]
