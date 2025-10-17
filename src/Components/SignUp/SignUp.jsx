@@ -42,13 +42,15 @@ const SignUp = () => {
     createUserWithEmailAndPassword(auth, email, password)
       .then((res) => {
         // Signed up 
-        console.log(res.user);
-        toast.success("sign up hoise")
+        console.log(res.code);
+    
 
       })
       .catch((e) => {
-        toast.error(e.message);
-
+        //console.log(e.code)
+        if(e.code === 'auth/email-already-in-use'){
+                   toast.error("All ready this email are used");
+        }
       });
   };
 
